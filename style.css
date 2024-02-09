@@ -3,3 +3,4 @@ button{background: tan; border: 2px solid rgba(0, 0, 255, 0.432)}
 a{color: steelblue}
 #headder{color: rgb(4, 1, 151);}
 #job{text-transform: uppercase; width: 50%;}
+#skills1, #skills2{width: 45%; display: inline-block; vertical-align: top; padding: 0; margin: 0}
